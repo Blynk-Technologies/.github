@@ -28,7 +28,7 @@ Provides IoT device UX, credentials provisioning, OTA updates, network managemen
 [Edgent firmware for MicroPython](https://github.com/Blynk-Technologies/Edgent-MicroPython)  
 [ESP32 Edgent for Cellular+WiFi](https://www.blynk.io/blueprints/esp32-edgent-for-cellular-and-wifi)  
 
-**Blynk.NCP** provides Blynk.Edgent features along with some advanced functionality in a form of a Network Co-Processor firmware:
+**Blynk.NCP** provides Blynk.Edgent features along with advanced functionality in a form of a Network Co-Processor:
 
 [Blynk.NCP Low Level Driver (for any MCU)](https://github.com/Blynk-Technologies/Blynk-NCP-Driver)  
 [Example for Zephyr](https://github.com/Blynk-Technologies/Blynk-NCP-Example-Zephyr)  
