@@ -19,7 +19,7 @@ Blynk Web Dashboard: [blynk.cloud](https://blynk.cloud)
 
 ### Blynk.Edgent
 
-Provides IoT device UX,credentials provisioning, OTA updates, network management along with secure connectivity to the Blynk.Cloud:
+Provides IoT device UX, credentials provisioning, OTA updates, network management along with secure connectivity to the Blynk.Cloud:
 
 [Edgent component for ESP-IDF](https://github.com/Blynk-Technologies/Edgent-ESP-IDF)  
 [Edgent for PlatformIO](https://github.com/Blynk-Technologies/Edgent-PlatformIO)  
