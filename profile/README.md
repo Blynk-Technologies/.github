@@ -19,11 +19,12 @@ Blynk Web Dashboard: [blynk.cloud](https://blynk.cloud)
 
 ### Blynk.Edgent
 
+[Edgent component for ESP-IDF](https://github.com/Blynk-Technologies/Edgent-ESP-IDF)  
 [Edgent for PlatformIO](https://github.com/Blynk-Technologies/Edgent-PlatformIO)  
 [Edgent for Arduino](https://github.com/Blynk-Technologies/blynk-library/tree/master/examples/Blynk.Edgent)  
 [Edgent for Particle](https://github.com/Blynk-Technologies/Edgent-Particle)  
-[Edgent component for ESP-IDF](https://github.com/Blynk-Technologies/Edgent-ESP-IDF)  
 [Edgent firmware for MicroPython](https://github.com/Blynk-Technologies/Edgent-MicroPython)  
+[ESP32 Edgent for Cellular+WiFi](https://www.blynk.io/blueprints/esp32-edgent-for-cellular-and-wifi)  
 
 ### Blynk.NCP
 
