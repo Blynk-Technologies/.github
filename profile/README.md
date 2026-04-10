@@ -30,7 +30,7 @@ Provides IoT device UX, credentials provisioning, OTA updates, network managemen
 
 **Blynk.NCP** provides Blynk.Edgent features along with some advanced functionality in a form of a Network Co-Processor firmware:
 
-[Blynk.NCP example for Zephyr](https://github.com/Blynk-Technologies/Blynk-NCP-Example-Zephyr)  
-[Blynk.NCP example for Arduino](https://github.com/Blynk-Technologies/Blynk-NCP-Example-Arduino)  
-[Low Level Driver (for any MCU)](https://github.com/Blynk-Technologies/Blynk-NCP-Driver)  
+[Blynk.NCP Low Level Driver (for any MCU)](https://github.com/Blynk-Technologies/Blynk-NCP-Driver)  
+[Example for Zephyr](https://github.com/Blynk-Technologies/Blynk-NCP-Example-Zephyr)  
+[Example for Arduino](https://github.com/Blynk-Technologies/Blynk-NCP-Example-Arduino)  
 [Supported in Blynk C++ Library](https://github.com/Blynk-Technologies/blynk-library/blob/master/examples/Blynk.Edgent/Edgent_NCP/Edgent_NCP.ino)  
