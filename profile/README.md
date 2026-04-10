@@ -1,4 +1,4 @@
-## Blynk.Apps
+## Blynk Apps
 
 [<img src="https://cdn.simpleicons.org/googleplay/363636/d1d1d1" width="18" height="18" /> Google Play](https://play.google.com/store/apps/details?id=cloud.blynk) | 
 [<img src="https://cdn.simpleicons.org/apple/363636/d1d1d1" width="18" height="18" /> App Store](https://apps.apple.com/us/app/blynk-iot/id1559317868)
