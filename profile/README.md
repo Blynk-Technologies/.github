@@ -1,8 +1,8 @@
 ## Apps
 
 Blynk Mobile App: 
-[<img src="https://cdn.rawgit.com/simple-icons/simple-icons/develop/icons/googleplay.svg" width="18" height="18" /> Google Play](https://play.google.com/store/apps/details?id=cloud.blynk) | 
-[<img src="https://cdn.rawgit.com/simple-icons/simple-icons/develop/icons/apple.svg" width="18" height="18" /> App Store](https://apps.apple.com/us/app/blynk-iot/id1559317868)
+[<img src="https://cdn.simpleicons.org/googleplay/363636" width="18" height="18" /> Google Play](https://play.google.com/store/apps/details?id=cloud.blynk) | 
+[<img src="https://cdn.simpleicons.org/apple/363636" width="18" height="18" /> App Store](https://apps.apple.com/us/app/blynk-iot/id1559317868)
 
 Blynk Web Dashboard: [blynk.cloud](https://blynk.cloud)  
 
