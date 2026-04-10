@@ -12,7 +12,7 @@ Blynk Web Dashboard: [blynk.cloud](https://blynk.cloud)
 
 [Blynk C++ Library for Arduino](https://github.com/Blynk-Technologies/blynk-library)  
 [MQTT samples: Python, JS, Lua, C/C++, ESP-IDF, Zephyr, etc.](https://github.com/Blynk-Technologies/Blynk-MQTT-Samples)  
-[Data Converters](https://docs.blynk.io/en/blynk.console/templates/data-converters)  
+[HTTP and MQTT Data Converters](https://docs.blynk.io/en/blynk.console/templates/data-converters)  
 
 ### Blynk.Edgent
 
