@@ -5,7 +5,7 @@
 
 ## Blynk Web Dashboard
 
-[blynk.cloud](https://blynk.cloud)  
+[<img src="https://cdn.simpleicons.org/googlechrome/363636/d1d1d1" width="18" height="18" /> blynk.cloud](https://blynk.cloud)
 
 ## Device connectivity
 
