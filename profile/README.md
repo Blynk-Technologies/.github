@@ -19,6 +19,8 @@ Blynk Web Dashboard: [blynk.cloud](https://blynk.cloud)
 
 ### Blynk.Edgent
 
+Provides IoT device UX,credentials provisioning, OTA updates, network management along with secure connectivity to the Blynk.Cloud:
+
 [Edgent component for ESP-IDF](https://github.com/Blynk-Technologies/Edgent-ESP-IDF)  
 [Edgent for PlatformIO](https://github.com/Blynk-Technologies/Edgent-PlatformIO)  
 [Edgent for Arduino](https://github.com/Blynk-Technologies/blynk-library/tree/master/examples/Blynk.Edgent)  
@@ -26,7 +28,7 @@ Blynk Web Dashboard: [blynk.cloud](https://blynk.cloud)
 [Edgent firmware for MicroPython](https://github.com/Blynk-Technologies/Edgent-MicroPython)  
 [ESP32 Edgent for Cellular+WiFi](https://www.blynk.io/blueprints/esp32-edgent-for-cellular-and-wifi)  
 
-### Blynk.NCP
+**Blynk.NCP** provides Blynk.Edgent features along with some advanced functionality in a form of a Network Co-Processor firmware:
 
 [Example for Zephyr](https://github.com/Blynk-Technologies/Blynk-NCP-Example-Zephyr)  
 [Example for Arduino](https://github.com/Blynk-Technologies/Blynk-NCP-Example-Arduino)  
